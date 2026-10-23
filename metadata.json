@@ -1,0 +1,6 @@
+{
+  "name": "CNN News Clone - Breaking News, Video & Live Coverage",
+  "description": "Comprehensive news platform modeled after CNN with dynamic breaking news, multi-category coverage, live updates feed, and responsive interactive article viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
